@@ -1,0 +1,7 @@
+Assignment: PHP Arrays and GitHub9oo9
+Practice Associative Arrays in PHP.
+Learn to use require and include functions.
+Install Git and understand its basic commands.
+Create a GitHub account.
+Upload your project to GitHub.
+Submit your GitHub project link to my email, including your previous assignment.
